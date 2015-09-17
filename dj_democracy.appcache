@@ -1,0 +1,15 @@
+CACHE MANIFEST
+# 2013-11-17 ver 1
+/dj_democracy.js
+/artists.php
+/home.php
+/songs.php
+/vote.php
+/charts.php
+/dj_democracy.css
+
+NETWORK:
+*
+
+FALLBACK:
+/offline.php
